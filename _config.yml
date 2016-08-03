@@ -1,0 +1,14 @@
+layout_spectrum: 0.6828412592876703
+typography_spectrum: 0.6929397820495069
+color:
+  brandStrength: 0.7541416122112423
+  lightness: 0.24706937721930444
+  saturation: 0.6100958425085992
+  rhythmicContrast: 0.02966363774612546
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: aviknet
